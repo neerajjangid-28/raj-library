@@ -9,10 +9,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
-  }
+    "emoji-picker-react": "^4.12.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neerajjangid-28/raj-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neerajjangid-28/raj-library/issues"
+  },
+  "homepage": "https://github.com/neerajjangid-28/raj-library#readme",
+  "description": ""
 }
